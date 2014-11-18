@@ -1,10 +1,10 @@
 package ca.demo.salestools;
 
 public class SalesData {
-   int data[] = {0 , 4, 42};
-	public void display()
+   int data[] = {0, 3, 6, 456};
+	public void dis()
 	{
-	 System.out.println("TODO display data implemented");
+	 System.out.println("wow");
 	}
    
 }
